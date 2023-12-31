@@ -1,0 +1,47 @@
+.content {
+  font-size: 16pt;
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: 400;
+}
+
+  .content__heading {
+    font-family: Monaco, 'Courier New', Courier, monospace;
+    font-size: 50pt;
+    font-weight: bold;
+  }
+
+  .content__img {
+    width: 400px;
+    height: auto;
+  }
+
+.content--col1 {
+  background-color: hsl(100, 40%, 50%);
+  color: hsl(0, 0%, 0%);
+}
+
+.content--col2 {
+  background-color: hsl(125, 40%, 50%);
+  color: hsl(0, 0%, 0%);
+}
+
+.content--col3 {
+  background-color: hsl(150, 40%, 50%);
+  color: hsl(0, 0%, 0%);
+}
+
+.content--col4 {
+  background-color: hsl(175, 40%, 50%);
+  color: hsl(0, 0%, 0%)
+}
+
+/* .subcontent { */
+
+/* Assign desc, step,ingred as class=subcontent? */
+
+/*  */
+
+  .subcontent__img {
+    width: 300px;
+    height: auto;
+  }
