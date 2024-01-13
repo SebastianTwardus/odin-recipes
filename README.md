@@ -1,6 +1,19 @@
 <h1>HTML Project: Food Recipes</h1>
 
 <h2>This is a HTML project assigned from The Odin Project HTML Foundations Course</h2>
+<h3>Revision 2024-01-13</h3>
+<p>Further styled and modified homepage practicing mainly css positioning as per assignment</p>
+<h4>Image Sources</h4>
+
+Homepage background image by <a href="https://unsplash.com/@goumbik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lukas Blazek</a> on <a href="https://unsplash.com/photos/kitchen-knife-and-green-leaf-vegetable-on-tableto-f-TWhXOrLiU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Homepage content image by <a href="https://unsplash.com/@calumlewis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Calum Lewis</a> on <a href="https://unsplash.com/photos/wooden-ladle-and-spatula-on-top-of-table-rkT_TG5NKF8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Pizza Recipe link background image <a href="https://wallpapers.com/wallpapers/pepperoni-pizza-in-pink-6mxrhzcczk7axrgz.html">by werty on Wallpapers.com </a>
+
+Banana Bread Recipe link background image <a href="https://pixabay.com/users/biea-3017404/"> by Biea</a> on <a href="https://pixabay.com/photos/soft-cookie-banana-bread-lilacs-5195326/">Pixabay</a>
+
+Beef Stir-Fry Recipe link background image by <a href="https://unsplash.com/@clemono?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clem Onojeghuo</a> on <a href="https://unsplash.com/photos/black-steel-wok-r8lDTtSWGUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 <h3>Revision 2023-12-30</h3>
 <p>Added basic CSS to practice as per assignment</p>
 <h3>Description</h3>
@@ -8,7 +21,7 @@
 <strong>Skills Demonstrated:</strong>
 <ul>
     <li>Using basic HTML to structure a simple website with a few webpages</li>
-    <li>Incorporating links, images (pictures & gifs), text styling, and lists</li>
+    <li>Incorporating links, images, text styling, and lists</li>
     <li>Using Git to track project changes</li>
 </ul>
 <strong>What I learned:</strong>
